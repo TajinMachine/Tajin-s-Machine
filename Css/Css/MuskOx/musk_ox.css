@@ -15,25 +15,39 @@ background: rgb(30,30,30);
     outline-width: 4px;
     outline-style:double;
     outline-color:navajowhite;
+    text-align:center;
 
 }
 .intro{
     background-color: rgb(15, 15, 15);
     font-size: larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
 }
 .main{
     background-color: rgb(15, 15, 15);
     font-size: larger;
+    text-align:center;
+    padding:1px;
+    margin:1px;
+}    
+.stats{
     outline-width: 4px;
-    outline-style:groove;
+    outline-style:double;
     outline-color:navajowhite;
+    text-align:left;
+    
 }
+
 .footer{
     background-color: rgb(15, 15, 15);
     font-size: larger;
     outline-width: 4px;
     outline-style:double;
     outline-color:navajowhite;
+    text-align:center;
+    padding:1px;
+    margin:1px;
 }
 #warriors{
     color: aqua;

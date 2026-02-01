@@ -1,0 +1,15 @@
+div{
+    width: 100px;
+    height: 100px;
+    padding:0;
+    margin:0;
+}
+.kamga{
+    background-color:blueviolet;
+    position: absolute;
+    left:100px;
+}
+
+.geo{
+    background-color:chartreuse;
+}
